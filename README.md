@@ -1,5 +1,5 @@
 # Hatser-Webpanel
-A Web Panel designed for manage Source Engine based game server.
+A Web Panel designed for managing Source Engine based game server.
 
 ## 이미지
 ![](https://i.imgur.com/hlRnQMI.gif)
