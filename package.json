@@ -1,9 +1,17 @@
 {
-  "name": "vue-project",
+  "name": "Hatser-Webpanel",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "Trostal",
-  "private": true,
+  "description": "A Web Panel designed for manage Source Engine based game server.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatser/Hatser-Webpanel"
+  },
+  "author": {
+    "name": "Hatser",
+    "email": "alswo7310@naver.com"
+  },
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
