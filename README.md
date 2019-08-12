@@ -6,7 +6,7 @@ A Web Panel designed for managing Source Engine based game server.
 * communicates with Game Servers using [Websocket](https://tools.ietf.org/html/rfc6455) check out [here](https://github.com/Hatser/Hatser-Webpanel/blob/master/src/components/Pages/Server-Chat.vue#L101)
 * supports the server managers to add/remove/edit server admins easily.
 * supports the server managers to add/remove/edit servers those the manager is managing.
-* retrives server info automatically, refreshes the info in real-time.
+* retrives server info automatically, refreshes info in real-time.
 * supports remote chat, server managing.
 
 
